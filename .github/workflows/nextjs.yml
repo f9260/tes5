@@ -78,13 +78,13 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./ve3.plus/
+          path: ./dist
 
   # Deployment job
   deploy:
     environment:
       name: github-pages
-      url: ./
+      url: https://ve3.plus/
     runs-on: ubuntu-latest
     needs: build
     steps:
