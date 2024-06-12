@@ -2,9 +2,6 @@
 const nextConfig = {
   output:'export',
   distDir:'dist',
-  basePath:'/',
-  assetPrefix:'/',
-  
   images: {
     unoptimized:true,
     domains: ["localhost"],
