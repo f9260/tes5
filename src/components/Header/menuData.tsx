@@ -10,7 +10,7 @@ const menuData: Menu[] = [
   {
     id: 2,
     title: "Guide",
-    path: "https://ve3.plus/guide",
+    path: "https://guide.ve3.plus/",
     newTab: true,
   },
   {
@@ -22,7 +22,7 @@ const menuData: Menu[] = [
   {
     id: 4,
     title: "Helper",
-    path: "https://ve3.plus/guide/ve3plus-helper",
+    path: "https://guide.ve3.plus/ve3plus-helper",
     newTab: true,
   },
   {

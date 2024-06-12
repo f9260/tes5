@@ -175,7 +175,7 @@ const Header = () => {
               </div>
               <div className="flex items-center justify-end pr-16 lg:pr-0">
               <Link
-                  href="https://ve3.plus/tr"
+                  href="https://tr.ve3.plus/"
                   className="ease-in-up shadow-btn hover:shadow-btn-hover rounded-sm bg-primary px-8 py-3 text-base font-medium text-white transition duration-300 hover:bg-opacity-90  " style={{ marginBottom:'3px', paddingLeft: '0.8rem', paddingRight: '0.8rem', paddingTop: '0.27rem', paddingBottom: '0.15rem', borderRadius: '7px' }}
 
                 >
