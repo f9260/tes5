@@ -10,25 +10,25 @@ const AboutSectionTwo = () => {
               className="relative mx-auto mb-12 aspect-[9/16] max-w-[5000px] max-h-[700px] text-center lg:m-0"
               data-wow-delay=".15s"
             >
-              <Image
-                src="/images/about/sdf.gif"
-                alt="about image"
-                fill
+              <video
                 className="drop-shadow-three dark:hidden dark:drop-shadow-none"
-              />
-              <Image
-                src="/images/about/sgg.gif"
-                alt="about image"
-                fill
+                autoPlay muted loop>
+                <source src="https://forum.ve3.plus/assets/files/2024-04-28/main/main-4.mp4" type="video/mp4" />
+                Your browser does not support the video tag.
+              </video>
+              <video
                 className="hidden drop-shadow-three dark:block dark:drop-shadow-none"
-              />
+                autoPlay muted loop>
+                <source src="https://forum.ve3.plus/assets/files/2024-04-28/main/main-22.mp4" type="video/mp4" />
+                Your browser does not support the video tag.
+              </video>
             </div>
           </div>
           <div className="w-full px-4 lg:w-1/2">
             <div className="max-w-[470px]">
               <div className="mb-9">
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                  Auto Subtitles
+                 🔡 Auto Subtitles
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
                   With our unique Hit Gun mode, you can add subtitles to your content in any language you wish. 
@@ -36,7 +36,7 @@ const AboutSectionTwo = () => {
               </div>
               <div className="mb-9">
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                  Youtube at Your Command
+                 🛑 Youtube at Your Command
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
                   By using the Web feature, you can benefit from all videos on Youtube. 
@@ -44,7 +44,7 @@ const AboutSectionTwo = () => {
               </div>
               <div className="mb-1">
                 <h3 className="mb-4 text-xl font-bold text-black dark:text-white sm:text-2xl lg:text-xl xl:text-2xl">
-                  Go Viral!
+                 🚀 Go Viral!
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
                 Using the Viral feature, witness the unique harmony of video and audio and create unique contents.
