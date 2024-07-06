@@ -73,6 +73,11 @@ const BlogDetailsPage = () => {
                     </li>
                     Unless otherwise stated, 1 license can be used on 1 computer.
                     <li className="mb-2 text-base font-medium text-[#9ca3af] sm:text-lg lg:text-base xl:text-lg">
+                      How long is the license period?
+                      
+                    </li>
+                    The license period is 30 days. After 30 days, you need to renew your license to continue use.
+                    <li className="mb-2 text-base font-medium text-[#9ca3af] sm:text-lg lg:text-base xl:text-lg">
                     Can I run multiple applications on one computer?
                     </li>
                     No. More than one .exe cannot be run at the same time.
