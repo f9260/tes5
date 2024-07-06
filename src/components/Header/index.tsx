@@ -108,14 +108,15 @@ const Header = () => {
                     {menuData.map((menuItem, index) => (
                       <li key={index} className="group relative">
                         {menuItem.path ? (
-                           menuItem.newTab ? (
+                          menuItem.newTab ? (
                             <a
-                            href={menuItem.path}
-                            className={`flex py-2 text-base lg:mr-0 lg:inline-flex lg:px-0 lg:py-6 ${
-                              usePathName === menuItem.path
-                                ? "text-primary dark:text-white"
-                                : "text-dark hover:text-primary dark:text-white/70 dark:hover:text-white"
-                            }`}
+                              href={menuItem.path}
+                              className={`flex py-2 text-base lg:mr-0 lg:inline-flex lg:px-0 lg:py-6 ${menuItem.title === "Premium"
+                                ? "text-primary dark:text-[#FFFF00] text-red-500 font-bold"
+                                : usePathName === menuItem.path
+                                  ? "text-primary dark:text-white"
+                                  : "text-dark hover:text-primary dark:text-white/70 dark:hover:text-white"
+                                }`}
                             target="_blank" // Yeni sekme için target özelliği
                             rel="noopener noreferrer" // Güvenlik önlemi
                           >
