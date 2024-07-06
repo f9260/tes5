@@ -21,18 +21,24 @@ const menuData: Menu[] = [
   },
   {
     id: 4,
+    title: "Tutorials",
+    path: "https://guide.ve3.plus/tutorials",
+    newTab: true,
+  },
+  {
+    id: 5,
     title: "Helper",
     path: "https://guide.ve3.plus/ve3plus-helper",
     newTab: true,
   },
   {
-    id: 5,
+    id: 6,
     title: "Demo",
     path: "https://forum.ve3.plus/d/3-demo-request",
     newTab: true,
   },
   {
-    id: 6,
+    id: 7,
     title: "Premium",
     path: "https://forum.ve3.plus/d/16-premium-and-advantages",
     newTab: true,
