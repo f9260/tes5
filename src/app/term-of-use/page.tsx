@@ -69,7 +69,7 @@ const BlogDetailsPage = () => {
                     </li>
                     <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
                     
-                    The <Link href="https://ve3.plus/guide" target="_blank"><span style={{ color: 'cyan' }}>VE3.Plus/guide</span></Link> address contains information on the use of VE3.Plus, which may be changed or removed without prior notice.
+                      The <Link href="https://guide.ve3.plus/" target="_blank"><span style={{ color: 'cyan' }}>Guide.VE3.Plus</span></Link> address contains information on the use of VE3.Plus, which may be changed or removed without prior notice.
                    
                     </li>
                     <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
