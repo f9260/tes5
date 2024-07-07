@@ -39,7 +39,7 @@ const AboutSectionTwo = () => {
                  🛑 Youtube at Your Command
                 </h3>
                 <p className="text-base font-medium leading-relaxed text-body-color sm:text-lg sm:leading-relaxed">
-                  By using the Web feature, you can benefit from all videos on Youtube. 
+                  Using the URL and URL List feature, you can directly edit videos on YouTube without having to download them to your computer. Moreover, the duration of the video is irrelevant. Even from a 5-hour video, you can get the content you want in minutes.
                 </p>
               </div>
               <div className="mb-1">
