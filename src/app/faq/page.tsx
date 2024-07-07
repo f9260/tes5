@@ -90,7 +90,7 @@ const BlogDetailsPage = () => {
                     </li>
 
 
-                    Recordings were created with <span style={{ color: 'lime' }}><b>DELL G3-3579 Laptop</b></span>.
+                    Tutorials were created with <span style={{ color: 'lime' }}><b>DELL G3-3579 Laptop</b></span>.
 
                     <span style={{ color: 'red' }}><b> Processor:</b></span> <span style={{ color: 'cyan' }}><b>Intel(R) Core( TM) i7-8750H CPU @ 2.20GHz</b></span>,
                     <span style={{ color: 'red' }}><b> Ram:</b></span> <span style={{ color: 'cyan' }}><b>16 GB</b></span>,
