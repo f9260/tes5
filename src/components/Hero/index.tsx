@@ -19,7 +19,7 @@
                   </p>
                   <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                     <Link
-                      href="#"
+                      href="https://www.fiverr.com/gsio_shop/build-a-social-media-content-generation-software-for-you"
                       className="rounded-sm bg-green-500 px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-green-600"
                     >
                       Buy Now
