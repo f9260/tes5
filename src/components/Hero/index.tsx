@@ -21,7 +21,7 @@
                     <Link
                       href="https://www.fiverr.com/gsio_shop/build-a-social-media-content-generation-software-for-you"
                       target="_blank"
-                      className="rounded-sm bg-green-500 px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-green-600"
+                      className="rounded-sm bg-green-[00b22d] px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-green-600"
                     >
                       Buy Now
                     </Link>
