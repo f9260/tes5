@@ -17,14 +17,30 @@
                   <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl">
                    An automation to produce unlimited short and long videos for all social media platforms. Simply adjust your settings and run it; the automation will handle the rest.
                   </p>
-                  <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
-                    <Link
-                      href="https://www.fiverr.com/gsio_shop/build-a-social-media-content-generation-software-for-you"
-                      target="_blank"
-                      className="rounded-sm bg-[#00b22d] px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-green-500"
-                    >
-                      Buy on Fiverr
-                    </Link>
+                                   <div className="flex items-center justify-center">
+                    <div className="flex flex-row items-center justify-center space-x-4 sm:space-x-0 sm:space-y-0 sm:flex-col sm:flex-row sm:justify-start">
+                      <Link
+                        href="https://guide.ve3.plus"
+                        target="_blank"
+                        className="inline-block rounded-sm bg-black px-3 sm:px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-black/90 dark:bg-white/10 dark:text-white dark:hover:bg-white/5 sm:hidden"
+                      >
+                        Guide
+                      </Link>
+                      <Link
+                        href="https://www.fiverr.com/gsio_shop/build-a-social-media-content-generation-software-for-you"
+                        target="_blank"
+                        className="rounded-sm bg-[#00b22d] px-3 sm:px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-green-500"
+                      >
+                        Buy on Fiverr
+                      </Link>
+                      <Link
+                        href="https://forum.ve3.plus/d/3-demo-request"
+                        target="_blank"
+                        className="inline-block rounded-sm bg-black px-3 sm:px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-black/90 dark:bg-white/10 dark:text-white dark:hover:bg-white/5 sm:hidden"
+                      >
+                        Demo
+                      </Link>
+                    </div>
                   </div>
                 </div>
               </div>
