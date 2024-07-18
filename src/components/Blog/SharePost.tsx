@@ -25,7 +25,7 @@ const SharePost = () => {
           height="18"
           viewBox="0 0 22 22"
           fill="none"
-          xmlns="https://www.w3.org/2000/svg"
+          xmlns="http://www.w3.org/2000/svg"
         >
           <path
             fillRule="evenodd"
@@ -45,7 +45,7 @@ const SharePost = () => {
           height="18"
           viewBox="0 0 22 22"
           fill="none"
-          xmlns="https://www.w3.org/2000/svg"
+          xmlns="http://www.w3.org/2000/svg"
         >
           <path
             d="M12.1 10.4939V7.42705C12.1 6.23984 13.085 5.27741 14.3 5.27741H16.5V2.05296L13.5135 1.84452C10.9664 1.66676 8.8 3.63781 8.8 6.13287V10.4939H5.5V13.7183H8.8V20.1667H12.1V13.7183H15.4L16.5 10.4939H12.1Z"

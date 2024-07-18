@@ -44,7 +44,7 @@ const NewsLatterBox = () => {
             height="65"
             viewBox="0 0 57 65"
             fill="none"
-            xmlns="https://www.w3.org/2000/svg"
+            xmlns="http://www.w3.org/2000/svg"
           >
             <path
               opacity="0.5"
@@ -80,7 +80,7 @@ const NewsLatterBox = () => {
             height="32"
             viewBox="0 0 39 32"
             fill="none"
-            xmlns="https://www.w3.org/2000/svg"
+            xmlns="http://www.w3.org/2000/svg"
           >
             <path
               opacity="0.5"
@@ -116,7 +116,7 @@ const NewsLatterBox = () => {
             height="38"
             viewBox="0 0 38 38"
             fill="none"
-            xmlns="https://www.w3.org/2000/svg"
+            xmlns="http://www.w3.org/2000/svg"
           >
             <path
               opacity="0.5"
@@ -152,7 +152,7 @@ const NewsLatterBox = () => {
             height="91"
             viewBox="0 0 162 91"
             fill="none"
-            xmlns="https://www.w3.org/2000/svg"
+            xmlns="http://www.w3.org/2000/svg"
           >
             <g opacity="0.3">
               <path

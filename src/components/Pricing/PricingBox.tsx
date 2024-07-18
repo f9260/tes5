@@ -34,7 +34,7 @@ const PricingBox = (props: {
             height="158"
             viewBox="0 0 179 158"
             fill="none"
-            xmlns="https://www.w3.org/2000/svg"
+            xmlns="http://www.w3.org/2000/svg"
           >
             <path
               opacity="0.5"

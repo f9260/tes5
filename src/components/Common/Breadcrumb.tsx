@@ -50,7 +50,7 @@ const Breadcrumb = ({
               height="254"
               viewBox="0 0 287 254"
               fill="none"
-              xmlns="https://www.w3.org/2000/svg"
+              xmlns="http://www.w3.org/2000/svg"
             >
               <path
                 opacity="0.1"
@@ -78,7 +78,7 @@ const Breadcrumb = ({
               height="258"
               viewBox="0 0 628 258"
               fill="none"
-              xmlns="https://www.w3.org/2000/svg"
+              xmlns="http://www.w3.org/2000/svg"
             >
               <path
                 opacity="0.1"
