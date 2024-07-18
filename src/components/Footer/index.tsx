@@ -42,7 +42,7 @@ const Footer = () => {
                       height="18"
                       viewBox="0 0 22 22"
                       fill="none"
-                      xmlns="http://www.w3.org/2000/svg"
+                      xmlns="https://www.w3.org/2000/svg"
                     >
                       <path
                         d="M12.1 10.4939V7.42705C12.1 6.23984 13.085 5.27741 14.3 5.27741H16.5V2.05296L13.5135 1.84452C10.9664 1.66676 8.8 3.63781 8.8 6.13287V10.4939H5.5V13.7183H8.8V20.1667H12.1V13.7183H15.4L16.5 10.4939H12.1Z"
@@ -62,7 +62,7 @@ const Footer = () => {
                       height="18"
                       viewBox="0 0 22 22"
                       fill="none"
-                      xmlns="http://www.w3.org/2000/svg"
+                      xmlns="https://www.w3.org/2000/svg"
                     >
                       <path
                         fillRule="evenodd"
@@ -237,7 +237,7 @@ const Footer = () => {
             height="99"
             viewBox="0 0 55 99"
             fill="none"
-            xmlns="http://www.w3.org/2000/svg"
+            xmlns="https://www.w3.org/2000/svg"
           >
             <circle opacity="0.8" cx="49.5" cy="49.5" r="49.5" fill="#959CB1" />
             <mask
@@ -311,7 +311,7 @@ const Footer = () => {
             height="94"
             viewBox="0 0 79 94"
             fill="none"
-            xmlns="http://www.w3.org/2000/svg"
+            xmlns="https://www.w3.org/2000/svg"
           >
             <rect
               opacity="0.3"

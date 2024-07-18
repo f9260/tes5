@@ -54,7 +54,7 @@ const Testimonials = () => {
           height="531"
           viewBox="0 0 238 531"
           fill="none"
-          xmlns="http://www.w3.org/2000/svg"
+          xmlns="https://www.w3.org/2000/svg"
         >
           <rect
             opacity="0.3"
@@ -108,7 +108,7 @@ const Testimonials = () => {
           height="106"
           viewBox="0 0 279 106"
           fill="none"
-          xmlns="http://www.w3.org/2000/svg"
+          xmlns="https://www.w3.org/2000/svg"
         >
           <g opacity="0.5">
             <path
