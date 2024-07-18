@@ -3,7 +3,7 @@ import Link from 'next/link'
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Gizlilik Politikası | VE3.Plus",
+  title: "Refund Policy | VE3.Plus",
   description: "",
   // other metadata
 };
