@@ -15,7 +15,9 @@
                     VE3.Plus - Unlimited Video Editing Automation
                   </h1>
                   <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl">
-                   An automation to produce unlimited short and long videos for all social media platforms. Simply adjust your settings and run it; the automation will handle the rest.
+                   Produce unlimited videos without needing video editing skills, and earn money from social media.
+
+Make a few simple settings that take seconds and let it do the rest.
                   </p>
                                    <div className="flex items-center justify-center">
                     <div className="flex flex-row items-center justify-center space-x-4 sm:space-x-0 sm:space-y-0 sm:flex-col sm:flex-row sm:justify-start">
