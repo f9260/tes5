@@ -29,7 +29,7 @@
                         Guide
                       </Link>
                       <Link
-                        href="https://www.fiverr.com/gsio_shop/build-a-social-media-content-generation-software-for-you"
+                        href="https://www.fiverr.com/s/Gz9lgr0"
                         target="_blank"
                         className="rounded-sm bg-[#00b22d] px-3 sm:px-8 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-green-500"
                       >
