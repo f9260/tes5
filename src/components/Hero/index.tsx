@@ -1,55 +1,53 @@
-  import Link from "next/link";
+"use client";
 
-  const Hero = () => {
-    return (
-      <>
-        <section
-          id="home"
-          className="relative z-10 overflow-hidden bg-white pb-16 pt-[120px] dark:bg-gray-dark md:pb-[120px] md:pt-[150px] xl:pb-[160px] xl:pt-[180px] 2xl:pb-[200px] 2xl:pt-[210px]"
-        >
-          <div className="container">
-            <div className="-mx-4 flex flex-wrap">
-              <div className="w-full px-4">
-                <div className="mx-auto max-w-[800px] text-center">
-                  <h1 className="mb-5 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight">
-                    VE3.Plus - Unlimited Video Editing Automation
-                  </h1>
-                  <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl">
-                   Create unlimited videos without any video editing skills and start making money on social media.
-                    
-                    Make a few simple settings in seconds, run it, and let the automation do the rest.
-                  </p>
-                  <div className="flex flex-col items-center justify-center space-y-4">
-                    <div className="flex flex-row items-center justify-center space-x-4 w-full max-w-md">
-                      <Link
-                        href="https://www.fiverr.com/s/Gz9lgr0"
-                        target="_blank"
-                        className="flex-1 rounded-sm bg-[#00b22d] px-3 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-green-500 text-center"
-                      >
-                        Buy on Fiverr
-                      </Link>
-                    </div>
-                    <div className="flex flex-row items-center justify-center space-x-4 w-full max-w-md">
-                      <Link
-                        href="https://guide.ve3.plus"
-                        target="_blank"
-                        className="flex-1 rounded-sm bg-gradient-to-r from-[#6A0D91] to-[#1E90FF] px-3 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-gradient-to-r hover:from-[#5B0A7A] hover:to-[#4682B4] dark:text-white dark:hover:from-[#5B0A7A] dark:hover:to-[#4682B4] text-center"
-                      >
-                        Community
-                      </Link>
-                      <Link
-                        href="https://onedrive.live.com/download?resid=6F652AD40ADCFC4D%21115&authkey=%21AO6fCQfIXV8uPXM"
-                        target="_blank"
-                        className="flex-1 rounded-sm bg-gradient-to-r from-[#FF0000] to-[#C71585] px-3 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-gradient-to-r hover:from-[#E60000] hover:to-[#A0136D] dark:text-white dark:hover:from-[#E60000] dark:hover:to-[#A0136D] text-center"
-                      >
-                        Download  ⤓ 
-                      </Link>
-                    </div>
+import Link from "next/link";
+
+const Hero = () => {
+  return (
+    <>
+      <section
+        id="home"
+        className="relative z-10 overflow-hidden bg-white pb-16 pt-[120px] dark:bg-gray-dark md:pb-[120px] md:pt-[150px] xl:pb-[160px] xl:pt-[180px] 2xl:pb-[200px] 2xl:pt-[210px]"
+      >
+        <div className="container">
+          <div className="-mx-4 flex flex-wrap">
+            <div className="w-full px-4">
+              <div className="mx-auto max-w-[800px] text-center">
+                <h1 className="mb-5 text-3xl font-bold leading-tight text-black dark:text-white sm:text-4xl sm:leading-tight md:text-5xl md:leading-tight">
+                  VE3.Plus - Unlimited Video Editing Automation
+                </h1>
+                <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl">
+                  Create unlimited videos without any video editing skills and start making money on social media.
+                  Make a few simple settings in seconds, run it, and let the automation do the rest.
+                </p>
+                <div className="flex flex-col items-center justify-center space-y-4">
+                  <div className="flex flex-row items-center justify-center space-x-4 w-full max-w-md">
+                    <button
+                      onClick={() => window.open('https://www.fiverr.com/s/Gz9lgr0', '_blank')}
+                      className="flex-1 rounded-sm bg-[#00b22d] px-3 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-green-500 text-center cursor-pointer"
+                    >
+                      Buy on Fiverr
+                    </button>
+                  </div>
+                  <div className="flex flex-row items-center justify-center space-x-4 w-full max-w-md">
+                    <button
+                      onClick={() => window.open('https://forum.ve3.plus', '_blank')}
+                      className="flex-1 rounded-sm bg-gradient-to-r from-[#6A0D91] to-[#1E90FF] px-3 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-gradient-to-r hover:from-[#5B0A7A] hover:to-[#4682B4] dark:text-white dark:hover:from-[#5B0A7A] dark:hover:to-[#4682B4] text-center cursor-pointer"
+                    >
+                      Community
+                    </button>
+                    <button
+                      onClick={() => window.open('https://onedrive.live.com/download?resid=6F652AD40ADCFC4D%21115&authkey=%21AO6fCQfIXV8uPXM', '_blank')}
+                      className="flex-1 rounded-sm bg-gradient-to-r from-[#FF0000] to-[#C71585] px-3 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-gradient-to-r hover:from-[#E60000] hover:to-[#A0136D] dark:text-white dark:hover:from-[#E60000] dark:hover:to-[#A0136D] text-center cursor-pointer"
+                    >
+                      Download  ⤓ 
+                    </button>
                   </div>
                 </div>
               </div>
             </div>
           </div>
+        </div>
         <div className="absolute right-0 top-0 z-[-1] opacity-30 lg:opacity-100">
           <svg
             width="450"
