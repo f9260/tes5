@@ -37,10 +37,10 @@ const Hero = () => {
                       Community
                     </button>
                     <button
-                      onClick={() => window.open('https://onedrive.live.com/download?resid=6F652AD40ADCFC4D%21115&authkey=%21AO6fCQfIXV8uPXM', '_blank')}
+                      onClick={() => window.location.href = 'https://onedrive.live.com/download?resid=6F652AD40ADCFC4D%21115&authkey=%21AO6fCQfIXV8uPXM'}
                       className="flex-1 rounded-sm bg-gradient-to-r from-[#FF0000] to-[#C71585] px-3 py-4 text-base font-semibold text-white duration-300 ease-in-out hover:bg-gradient-to-r hover:from-[#E60000] hover:to-[#A0136D] dark:text-white dark:hover:from-[#E60000] dark:hover:to-[#A0136D] text-center cursor-pointer"
                     >
-                      Download  ⤓ 
+                      Download ⤓ 
                     </button>
                   </div>
                 </div>
