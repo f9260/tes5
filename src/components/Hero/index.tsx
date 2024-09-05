@@ -17,7 +17,20 @@ const Hero = () => {
                   VE3.Plus - Unlimited Video Editing Automation
                 </h1>
                 <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl">
-                  Create unlimited videos without any video editing skills and start making money on social media.
+                  Create unlimited{' '}
+                  <Link href="https://forum.ve3.plus/d/100-what-is-unique-content-why-is-it-important" target="_blank">
+                    <span
+                        style={{
+                          background: 'linear-gradient(45deg, red, orange, yellow, cyan)',
+                          WebkitBackgroundClip: 'text',
+                          WebkitTextFillColor: 'transparent',
+                          fontWeight: 'bold'
+                        }}
+                      >
+                       unique
+                      </span>
+                    </Link>{' '}
+                  videos without any video editing skills and start making money on social media.
                   Make a few simple settings in seconds, run it, and let the automation do the rest.
                 </p>
                 <div className="flex flex-col items-center justify-center space-y-4">
