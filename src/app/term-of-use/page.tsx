@@ -56,9 +56,7 @@ const BlogDetailsPage = () => {
                      Like any software, VE3.Plus may encounter technical problems. If a solution cannot be provided in cases that are not caused by VE3.Plus' own infrastructure, the relevant features may be removed from the system.
 
                     </li>
-                    <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
-                      VE3.Plus is <u>temporarily</u> priced at <span style={{ color: 'LightSkyBlue' }}>$100 + platform commissions</span>.  After that, the price will be <span style={{ color: 'MediumSpringGreen' }}>300 dollars per month + platform commissions</span> and this price will <u>not change</u>.
-                    </li>
+
                     <li className="mb-2 text-base font-medium text-body-color sm:text-lg lg:text-base xl:text-lg">
                       Our response time to support requests is 3 business days. During this period, we get feedback on the problems you are experiencing and work is initiated to resolve them.
 
