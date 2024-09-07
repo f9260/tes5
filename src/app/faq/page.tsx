@@ -81,21 +81,7 @@ const BlogDetailsPage = () => {
                     Can I run multiple applications on one computer?
                     </li>
                     No. More than one .exe cannot be run at the same time.
-                    <li className="mb-2 text-base font-medium text-[#9ca3af] sm:text-lg lg:text-base xl:text-lg">
-                    What is the real price of the product?
-                    </li>
-                    300 dollars + platform commission. Prices below 300 dollars are for a temporary period.
-                    <li className="mb-2 text-base font-medium text-[#9ca3af] sm:text-lg lg:text-base xl:text-lg">
-                      What are the system features of the computer on which the tutorial videos are created?
-                    </li>
 
-
-                    Tutorials were created with <span style={{ color: 'lime' }}><b>DELL G3-3579 Laptop</b></span>.
-
-                    <span style={{ color: 'red' }}><b> Processor:</b></span> <span style={{ color: 'cyan' }}><b>Intel(R) Core( TM) i7-8750H CPU @ 2.20GHz</b></span>,
-                    <span style={{ color: 'red' }}><b> Ram:</b></span> <span style={{ color: 'cyan' }}><b>16 GB</b></span>,
-                    <span style={{ color: 'red' }}><b> GPU:</b></span><span style={{ color: 'cyan' }}><b> NVIDIA GeForce 1060 with Max- Q Design / Intel UHD Graphics 630</b></span> and <span style={{ color: 'cyan' }}><b>256 GB</b></span> <span style={{ color: 'red' }}><b>SSD.</b></span>
-                                       
                   </ul>
                   
                      
