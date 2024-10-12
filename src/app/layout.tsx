@@ -18,7 +18,7 @@ export default function RootLayout({
     <html suppressHydrationWarning lang="en">
      <Head>
           <meta name="google-adsense-account" content="ca-pub-8073812250118762">
-      </Head>
+     </Head>
 
       <body className={`bg-[#FCFCFC] dark:bg-black ${inter.className}`}>
         <Providers>
