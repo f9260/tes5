@@ -1,6 +1,6 @@
 "use client";
 
-import Head from "next/head";
+import GoogleAdsense from "../components/GoogleAdsense";
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 import ScrollToTop from "@/components/ScrollToTop";
@@ -21,15 +21,8 @@ export default function RootLayout({
         <head /> will contain the components returned by the nearest parent
         head.js. Find out more at https://beta.nextjs.org/docs/api-reference/file-conventions/head
       */}
-      <head>
-
-            <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8073812250118762"
-         crossorigin="anonymous"></script>
-      
-      </head>
+      <head />
         
-        
-       
       <body className={`bg-[#FCFCFC] dark:bg-black ${inter.className}`}>
         <Providers>
           <Header />
@@ -38,6 +31,7 @@ export default function RootLayout({
           <ScrollToTop />
         </Providers>
       </body>
+      <GoogleAdsense pId="8073812250118762" />
     </html>
   );
 }
