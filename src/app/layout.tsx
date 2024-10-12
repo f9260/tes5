@@ -15,10 +15,11 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html suppressHydrationWarning lang="en">
-     <Head>
-          <meta name="google-adsense-account" content="ca-pub-8073812250118762">
-     </Head>
+    <>
+      <Head>
+        {/* Google AdSense Meta Etiketi */}
+        <meta name="google-adsense-account" content="ca-pub-8073812250118762" />
+      </Head>
 
       <body className={`bg-[#FCFCFC] dark:bg-black ${inter.className}`}>
         <Providers>
@@ -28,7 +29,7 @@ export default function RootLayout({
           <ScrollToTop />
         </Providers>
       </body>
-    </html>
+    </>
   );
 }
 
