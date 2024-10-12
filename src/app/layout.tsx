@@ -1,6 +1,6 @@
 "use client";
 
-import GoogleAdsense from "../components/GoogleAdsense";
+
 import Footer from "@/components/Footer";
 import Header from "@/components/Header";
 import ScrollToTop from "@/components/ScrollToTop";
@@ -31,7 +31,6 @@ export default function RootLayout({
           <ScrollToTop />
         </Providers>
       </body>
-      <GoogleAdsense pId="8073812250118762" />
     </html>
   );
 }
