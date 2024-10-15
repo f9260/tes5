@@ -33,8 +33,8 @@ const menuData: Menu[] = [
   },
   {
     id: 6,
-    title: "Demo",
-    path: "https://forum.ve3.plus/d/3-demo-request",
+    title: "Buy on Fiverr",
+    path: "https://www.fiverr.com/s/Gz9lgr0",
     newTab: true,
   },
   {
