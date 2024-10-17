@@ -1,5 +1,4 @@
-import Link from 'next/link'
-
+import Link from 'next/link';
 import { Metadata } from "next";
 
 export const metadata: Metadata = {
@@ -77,8 +76,8 @@ const BlogDetailsPage = () => {
               </div>
             </div>
           </div>
-
-      </section>
+        </div> {/* Eksik div kapanışı buraya eklendi */}
+      </section> {/* Eksik section kapanışı buraya eklendi */}
     </>
   );
 };
