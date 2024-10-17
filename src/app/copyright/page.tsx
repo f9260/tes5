@@ -26,7 +26,7 @@ const BlogDetailsPage = () => {
                     VE3.Plus respects the intellectual property rights of others and requests you to do the same. VE3.Plus does not permit infringement of intellectual property rights in its software and will promptly suspend commercial content (served via a publicly available web address / URL) from being able to be converted and downloaded by its software when kindly notified.
                   </p>
                   <p className="mb-4">
-                    If you’re a content creator/owner, copyright owner, or an agent thereof and would like to disable the possible use of VE3.Plus's software to convert your publicly available content(s), please kindly send me a request via email at copyright@ve3.plus with the following information:
+                    If you’re a content creator/owner, copyright owner, or an agent thereof and would like to disable the possible use of VE3.Plus's software to convert your publicly available content(s), please kindly send me a request via email at info@ve3.plus with the following information:
                   </p>
                   <ul className="mb-4">
                     <li>The URL(s) and description(s) of the content(s) you want us to block.</li>
@@ -64,7 +64,7 @@ const BlogDetailsPage = () => {
                     <strong>Contact Information:</strong>
                   </p>
                   <p className="mb-4">
-                    For copyright inquiries or content blocking requests, please contact us at copyright@ve3.plus.
+                    For copyright inquiries or content blocking requests, please contact us at info@ve3.plus.
                   </p>
                   <p className="mb-4">
                     <strong>Final Reminder:</strong>
