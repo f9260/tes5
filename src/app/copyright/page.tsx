@@ -64,7 +64,7 @@ const BlogDetailsPage = () => {
                     <strong>Contact Information:</strong>
                   </p>
                   <p className="mb-4">
-                    For copyright inquiries or content removal requests, please contact us at copyright@ve3.plus.
+                    For copyright inquiries or content blocking requests, please contact us at copyright@ve3.plus.
                   </p>
                   <p className="mb-4">
                     <strong>Final Reminder:</strong>
