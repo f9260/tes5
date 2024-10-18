@@ -29,9 +29,9 @@ const BlogDetailsPage = () => {
                     If you’re a content creator/owner, copyright owner, or an agent thereof and would like to disable the possible use of VE3.Plus's software to convert your publicly available content(s), please kindly send me a request via email at info@ve3.plus with the following information:
                   </p>
                   <ul className="mb-4">
-                    <li>The URL(s) and description(s) of the content(s) you want us to block.</li>
-                    <li>A form of electronic or physical evidence showing that you have the rights to act for the content(s).</li>
-                    <li>Contact information that is reasonably sufficient to permit me to contact you, such as telephone number, and a valid email address.</li>
+                    <li>- The URL(s) and description(s) of the content(s) you want us to block.</li>
+                    <li>- A form of electronic or physical evidence showing that you have the rights to act for the content(s).</li>
+                    <li>- Contact information that is reasonably sufficient to permit me to contact you, such as telephone number, and a valid email address.</li>
                   </ul>
                   <p className="mb-4">
                     The relevant content(s) will be blacklisted in our system within 48 hours.
